@@ -1,4 +1,6 @@
-# RANDOM CLASSIFICATION
+### EX NO: 01
+### DATE:
+# <p align="center"> RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
 
@@ -7,6 +9,7 @@ To write a python program to perform random classification.
 2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Related Theoritical Concept:
+A Random Forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.Random forest classifier creates a set of decision trees from randomly selected subset of training set. It then aggregates the votes from different decision trees to decide the final class of the test object.
 
 ## Algorithm
 1.In Random forest n number of random records are taken from the data set having k number of records.
